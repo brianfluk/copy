@@ -1,0 +1,4 @@
+test2 /path/to/your/copy/from/folder /path/to/your/paste/to/folder
+test3 /path/to/your/copy/from/folder /path/to/your/paste/to/folder
+test4 /path/to/your/copy/from/folder /path/to/your/paste/to/folder
+orders /path/to/your/copy/from/folder /path/to/your/paste/to/folder
